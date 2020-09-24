@@ -1,3 +1,3 @@
 # LiquorSales
 
-![liquor photo](https://user-images.githubusercontent.com/61078217/94089436-0ce76800-fdc8-11ea-93fb-110e6650a7cc.jpg)
+![image](https://user-images.githubusercontent.com/61078217/94089535-3c967000-fdc8-11ea-95cc-2f0eb22406cb.png)
