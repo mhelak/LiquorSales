@@ -4,7 +4,7 @@
 
 
 # Liquor Sales Project
-The aim of this project is to investigate patterns of liquor sales in the supermarket chain Hy-Vee. Specifically, the focus is on the period 2012-2020 and exclusively on Hy-Vee stores in Iowa. The ultimate goal is to forecast demand of a specific liquor, rum, as well as compare sales of this liquor at stores located in cities on the border with other sates: Nebraska and Illinois. The aim is to see if proximity to other states with different alcohol regulations affects sales in border town stores. 
+The aim of this project is to investigate patterns of liquor sales in the supermarket chain Hy-Vee. Specifically, the focus is on the period 2012-2020 and exclusively on Hy-Vee stores in Iowa. The ultimate goal is to forecast demand of rum, as well as compare sales of this liquor at stores located in cities on the border with other sates: Nebraska and Illinois. The aim is to see if proximity to other states with different alcohol regulations affects sales in border town stores. 
 
 # Audience
 The intended audience are Hy-Vee supply chain management representatives responsible for managing sales of rum in Iowa.
