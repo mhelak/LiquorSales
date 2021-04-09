@@ -1,0 +1,13 @@
+Model Metrics Summary
+
+
+Random Forest Model for a Regression Problem
+
+Final model features: week,	store_number,	general_alcohol_category,	city,	county,	initial claims (unemployment)
+
+Target Variable: volume_sold_(liters)
+
+Hyperparameters: 
+'max_depth': 10, 'n_estimators': 8
+
+Performance metrics: Mean absolute error, Mean squared error, RMSE
